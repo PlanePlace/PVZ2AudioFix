@@ -1,0 +1,9 @@
+Package: local.pvz2.audiofix
+Name: PVZ2 Audio Fix (Cross-version Test)
+Version: 1.1.0-1
+Architecture: iphoneos-arm
+Description: Experimental mono AAC channel-layout compatibility for legacy PvZ2 ARM64. No game-version, UUID or fixed call-site restrictions.
+Maintainer: PVZ2 Audio Compatibility Project
+Author: PVZ2 Audio Compatibility Project
+Section: Tweaks
+Depends: firmware (>= 14.4), mobilesubstrate | ellekit

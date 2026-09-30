@@ -1,0 +1,22 @@
+.DS_Store
+__pycache__/
+*.pyc
+/build/
+/release-assets/
+/PVZ2AudioFix.dylib
+/PVZ2AudioFix_*.deb
+/PVZ2AudioFix_*.zip
+/构建校验.json
+/测试结果.json
+.theos/
+packages/
+obj/
+# Keep game packages, private samples and device logs out of the repository.
+*.ipa
+*.m4a
+*.aac
+*.wem
+*.bnk
+*.ips
+*.jsonl
+samples/
